@@ -11,15 +11,10 @@
 
         <view
             class="android.view.View"
-            android:layout_width="fill_parent"
-            android:layout_height="1dp"
-            android:background="#000"/>
-
-        <view
-            class="android.view.View"
-            android:layout_width="fill_parent"
-            android:layout_height="1dp"
-            android:background="#333"/>
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:id="@+id/row_tab"
+            android:background="@color/green"/>
 
         <TextView
             android:layout_width="match_parent"
